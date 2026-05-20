@@ -1,4 +1,4 @@
-<img width="1024" height="919" alt="new pic" src="https://github.com/user-attachments/assets/16450413-d24c-48db-b27d-9b80c17349cb" />
+<img width="1000" height="600" alt="new pic" src="https://github.com/user-attachments/assets/16450413-d24c-48db-b27d-9b80c17349cb" />
 
 
 <h1 align="center">Hi 👋, I'm Ihsanullah</h1>
